@@ -1,0 +1,28 @@
+- 👋 Hi, I’m @Veeramanipalanin=int(input("enter year"))
+if n%100==0 and n%400==0 :
+  print("Its a Leap Year");
+elif (n%4) and (n%100!=0):
+  print("Leap Year");
+else:
+  print("Not leap year");def fact(n):
+  if n==1 or n==0:
+   return 1;
+  else:
+   return n*fact(n-1);
+n=int(input("Enter input value"));
+print(fact(n));n=int(input("enter year"))
+if n%100==0 and n%400==0 :
+  print("Its a Leap Year");
+elif (n%4) and (n%100!=0):
+  print("Leap Year");
+else:
+  print("Not leap year");
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Veeramanipalani/Veeramanipalani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
